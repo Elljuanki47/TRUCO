@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1771962230 source:d:\proyectos\c++\truco\menu.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+	"reglas.h"
+
+1770021463 d:\proyectos\c++\truco\menu.h
+	"reglas.h"
+
+1770204599 d:\proyectos\c++\truco\juego.h
+	<vector>
+	"cartas.h"
+	"reglas.h"
+	"envido.h"
+
+1770015137 source:d:\proyectos\c++\truco\main.cpp
+	<iostream>
+	"menu.h"
+
+1770015606 source:d:\proyectos\c++\truco\cartas.cpp
+	"cartas.h"
+	<algorithm>
+	<random>
+
+1770015455 d:\proyectos\c++\truco\cartas.h
+	<string>
+	<vector>
+
+1771404244 source:d:\proyectos\c++\truco\juego.cpp
+	<iostream>
+	"juego.h"
+	"cartas.h"
+	<vector>
+	"reglas.h"
+	"envido.h"
+
+1770021463 d:\proyectos\c++\truco\reglas.h
+
+1770021467 source:d:\proyectos\c++\truco\reglas.cpp
+	"reglas.h"
+
+1770023547 d:\proyectos\c++\truco\envido.h
+
